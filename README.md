@@ -18,8 +18,10 @@ STEPS IN PROJECT
 7. Time Intelligence Function
 8. Data Visualization
 9. Creating a dashboard
+    
 Develop an IPL Dashboard for seasons 2008 to 2022 to have detailed 
 insights on below problem statements
+
 1. Find the Title Winer, Orange Cap Winner, Purple Cap Winner, Tournament 6’s and 4’s for the 
 respective seasons on IPL 
 2. Developed IPL Bowling and Batting Stats and added a filter where user can select the bowler and 
@@ -30,7 +32,9 @@ batsman to see these stats.
 6. Matches won based on a result type
 7. Most run batsman with ball Top 10 Batsmans
 8. Best Top 10 Economy Bowler
+   
 POWER BI FUNCTIONALITIES USED IN THE PROJEJCT
+
 • Connecting Power Bi to MS SQL Server 
 • Data Modelling with three tables
 • Data cleaning in Power Query
